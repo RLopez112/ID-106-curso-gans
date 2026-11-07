@@ -1,0 +1,71 @@
+Material
+
+Clase 1: Introducción a las redes neuronales
+https://docs.google.com/presentation/d/1vbUsqmVUgfTYTm6gsHHTBzhfAQ0iYT7a
+
+Clase 2: Modelos generativos y GANs
+https://docs.google.com/presentation/d/1QNt0XKvll9VxgndVdygin7_ujdr6DpKA
+Video de la clase 2: https://drive.google.com/file/d/1D-1bx2ezeF5tyZ-3uTAQJt9IHmBnhrxW/view?usp=sharing
+
+Clase 3: Conditional GANs
+https://docs.google.com/presentation/d/1-i1B922S0i7PchNMcVM_UMW7PQ6dhgoA5Fh0mYzImG0
+
+Clase 4: Generating Synthetic Tabular Data with GANs
+https://docs.google.com/presentation/d/1RfzbCKTC608nWb7hVNZaiS4ICB8TArYu/edit?usp=sharing&ouid=104711425386598677811&rtpof=true&sd=true
+
+Clase 5: Wasserstein GAN
+https://docs.google.com/presentation/d/1NHEotv6ywlyVAZ95-Pk5w8I57F7LQZOOYzzpnEzx1T8
+
+Clase 6: Generación de series temporales: TimeGAN
+https://docs.google.com/presentation/d/1hq5sP50hwV9fCiI3Ctg07dC-8ZH-GfapXACRS6DYwzI/edit#slide=id.gea90084772_0_5
+
+Colab inicial (imágenes/OpenCV): https://colab.research.google.com/drive/1EaeyhiUIY0_iw6HMdITUc6JcdaTbf_-E
+
+ANN examples in Colab
+  1. Basic Neuron
+  https://colab.research.google.com/drive/12nIfujUWtMMhsykQttKJ8pN8mPoRBjMt 
+  2. Neuron with different activation functions
+  https://colab.research.google.com/drive/1xnEqRbwPxvHy9AowlRUmn8702eUoTkdZ 
+  3. Two layers ANN
+  https://colab.research.google.com/drive/1vxx4rOeDV9LhoABOW_sJz40JnRQihLG6 
+  4. Training two layers ANN 
+  https://colab.research.google.com/drive/15p4KIxBR5geoy3rDTh1cQq9DI7mmbJJG 
+  5. Training two layers ANN (using PyTorch library)
+  https://colab.research.google.com/drive/1Ri5MF1JYfpQwEqP2IrzEkGx-F3u1uZm5 
+ 
+Clase 1
+Colab de ejemplo (deep learning for regression): https://colab.research.google.com/drive/1HlU_2w2ELvC8tzPkJXjtwqdoVJWIQghO
+Colab de ejemplo (clasificador binario): https://colab.research.google.com/drive/1jjS5aDG-GW9y4vkCim6OH_EyLHMXizVT
+Colab de ejemplo (ANN para MNIST con MLP): https://colab.research.google.com/drive/1liK0JOZjuNLpZG5wsfJ6RQq1R5f3iHFi
+Colab de ejemplo 2 (ANN para MNIST 2, con CNN): https://colab.research.google.com/drive/1cdq6ABdnKDgDpfz0RP_Kx0THSniMbz9A
+
+Clase 2
+Colab de ejemplo (GAN para generar una distribución normal): https://colab.research.google.com/drive/1gbTlefMoY6eQDlZXpCU9PVINo55Yb3ly
+Colab de ejemplo (GAN para generar un segmento de recta): https://colab.research.google.com/drive/1FVdtHJK3vertgUVIMlfoM4E7tg0YWuIg
+Colab de ejemplo (GAN simple para MNIST con MLP): https://colab.research.google.com/drive/1FVdtHJK3vertgUVIMlfoM4E7tg0YWuIg
+
+Clase 3
+Colab de cGAN (cGAN para generar imágenes de ropa de la base de datos Fashion-MNIST): https://colab.research.google.com/drive/1sG_Yfw2_Q38BUxNLjZsk7CLtlIBdCQ-Q
+
+Clase 4
+Tabular data with Vanilla GAN https://colab.research.google.com/drive/1q-IQlHWV3Izp2JBzBiLJ2uf2cauAl1wE
+Tabular data with CTGAN https://colab.research.google.com/drive/19TfjXm2E_mdKDTVL0KwfDHslJ019ViMx
+
+Clase 5
+Wasserstein GAN: colab.research.google.com/drive/1ilRzKzb5WbzHE_Da2z1Nzd-bAPt9d9R2
+Wasserstein GAN con penalización de gradientes: colab.research.google.com/drive/1Lrk6urqFjX3YEnLkCwipx7_9gz7QBABo
+Wasserstein GAN para modelar una serie temporal financiera: github.com/CasperHogenboom/WGAN_financial_time-series, www.youtube.com/watch?v=ROLugVqjf00
+
+Clase 6:
+Survey sobre GANs para series temporales (Brophy et al, 2021): https://arxiv.org/pdf/2107.11098.pdf
+Implementación de TimeGAN en pytorch: https://colab.research.google.com/drive/19tZ6nfv4um7PCAFW91mySAaivucM0wNf
+https://github.com/nesmachnow/TimeGAN
+Implementación original de TimeGAN en Tensorflow: https://github.com/jsyoon0823/TimeGAN
+
+Clase 7: Generación de datos de consumo eléctrico con GANs
+Slides disponibles en este mismo directorio
+
+Clase 8: Generación de datos de consumo eléctrico con GANs condicionales
+Artículo de ejemplo disponible en este github
+Repositorio de datos ECD-UY: https://bit.ly/3f3IVmK
+Articulo que describe ECD-UY disponible en este github (Zhang2019)
